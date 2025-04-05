@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AnishBhat
-- 👀 I’m interested in coding,crypto
-- 🌱 I’m currently learning java,c++
-- 💞️ I’m looking to collaborate on java projects
+- 👀 I’m a protocol software developer
+- 🌱 I’m currently using C, C++, Python
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me emsonanish12@gmail.com
 
 <!---
