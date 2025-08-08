@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AnishBhat
-- 👀 I’m a protocol software developer
+- 👀 I’m a senior protocol software developer
 - 🌱 I’m currently using C, C++, Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me emsonanish12@gmail.com
